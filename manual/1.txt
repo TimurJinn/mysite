@@ -1,2 +1,0 @@
-
-The script is run in cron.
