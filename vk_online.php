@@ -1,5 +1,5 @@
 <?php
-$access_token = '';
+$access_token = '';//insert your access token
 $Online =
 curl('https://api.vk.com/method/account.setOnline?&access_token='.$access_token)
 ;
